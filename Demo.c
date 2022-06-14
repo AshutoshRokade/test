@@ -8,7 +8,7 @@ int main()
  int iValue2 = 20;
 int iSum = 0;
 iSum = iValue1+ iValue2;
-//test
+
 printf("%d", iSum);
 
 
